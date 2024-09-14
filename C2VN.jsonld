@@ -55,19 +55,19 @@
   "body": {
     "doNotList": false,
     "givenName": "C2VN",
-    "motivations": "We will play a meaningful role in building, operating and maintaining a truly decentralized, self-sustaining Cardano network and allowing ADA holders to use their stake and voting power to influence the future development of the network.\n",
-    "objectives": "With the aim of gathering and contributing the community's voice to the democratic nature of the governance model, C2VN's Objectives as a DRep include:\n- Being the community's spokesperson in governance activities, ensuring that ADA holders have a voice through voting rights.\n- Playing a transparent, reasoned role in shaping the future of Cardano.\n",
-    "paymentAddress": "addr_test1qqew6jaz63u389gwnp8w92qntetzxs6j9222pn4cnej672vazs7a6wnrseqggj4d4ur43yq9e23r4q0m879t7efyhzjq8mvzua",
-    "qualifications": "- Active Admin/Moderator of ETH community\n- C2VN member is Cardano Ambassador in Vietnam\n- Organized major community events such as Cardano Summit community led event in Hanoi in 2021, 2022, 2023, Catalyst Working Group, Hackathon\n- Owned projects funded from Fund6 to Fund12\n- In-depth study of DRep Pioneer Program, CIP1694\n- Has been operating stake pools for many years\n- Bringing blockchain (basic, lucid, mesh, haskell, plutus, aiken...) into mainstream teaching in universities and communities\n- Supporting many units operating stake pools and deploying dApps on Cardano\n",
+    "motivations": "We want to play a role in building, operating and maintaining a truly decentralized, self-sustaining Cardano network and allowing ada holders to use their stake and voting power to influence the future development of the network.",
+    "objectives": "With the aim of gathering and contributing the community's voice to the democratic nature of the governance model, C2VN's Objectives as a DRep include:\n- Being the community's spokesperson in governance activities, ensuring that ADA holders have a voice through voting rights.\n- Playing a transparent, reasoned role in shaping the future of Cardano.",
+    "paymentAddress": "",
+    "qualifications": "- Active Admin/Moderator of ETH community\n- C2VN member is Cardano Ambassador in Vietnam\n- Organized major community events such as Cardano Summit community led event in Hanoi in 2021, 2022, 2023, Catalyst Working Group, Hackathon\n- Owned projects funded from Fund6 to Fund12\n- In-depth study of DRep Pioneer Program, CIP1694\n- Our members have been operating stake pools for many years\n- Bringing blockchain (basic, lucid, mesh, haskell, plutus, aiken...) into mainstream education in universities and communities\n- Supporting many units operating stake pools and deploying dApps on Cardano",
     "references": [
       {
         "@type": "Link",
-        "label": "All information on one page: ",
-        "uri": "www.cardano2vn.io/docs/docs/drep/"
+        "label": "All information on one page:",
+        "uri": "https://www.cardano2vn.io/docs/docs/drep/"
       },
       {
         "@type": "Identity",
-        "label": "C2VN team",
+        "label": "About us:",
         "uri": "https://www.cardano2vn.io/about-us"
       }
     ]
